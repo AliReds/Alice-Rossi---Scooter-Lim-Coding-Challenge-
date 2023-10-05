@@ -1,0 +1,66 @@
+body{
+    background-image: url(MaterialeEsercizioLim/background.jpg); 
+    background-size: cover;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-family: "Poppins" 
+}
+
+header{
+    color: lime;
+    text-align: center;
+}
+
+section{
+    color: white;
+}
+
+#background{
+    background-color: rgba(0%, 0%, 0%, 50%);
+    padding: 75px;
+    border-radius: 3%;
+}
+
+img{
+    width: 200px;
+}
+
+h1{
+    text-align: center;
+}
+
+nav{
+    background-color: lime;
+    padding: 3px;
+    text-align: center;
+}
+
+hr{
+    height: 60px;
+}
+
+#yellow-line{
+    width: 45%;
+    height: 15px;
+    background-color: rgb(255, 209, 72);
+    border-radius: 3px;
+}
+
+#green-line{
+    width: 66%;
+    height: 15px;
+    background-color: rgb(68, 201, 68);
+    border-radius: 3px;
+}
+
+#red-line{
+    width: 25%;
+    height: 15px;
+    background-color: rgb(176, 1, 1);
+    border-radius: 3px;
+}
+
+strong{
+    font-size: 24px;
+}
+
